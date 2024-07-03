@@ -1,2 +1,2 @@
 # monir-info.github.io
-my personal webpage
+my personal academic webpage
