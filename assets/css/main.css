@@ -3948,3 +3948,8 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+@media all and (max-width:768px) {
+        #calculator tr {    display: table;  width:100%;    }               
+        #calculator td {    display: table-row; }           
+    }
